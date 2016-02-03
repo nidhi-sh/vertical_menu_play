@@ -1,14 +1,14 @@
 /*Author: Nidhi Sharma
 Version: 1.0
 */
-@import url(https://fonts.googleapis.com/css?family=Raleway);
+@import url(https://fonts.googleapis.com/css?family=Hind+Vadodara);
 
 html, body, #container{
 width:100%;
 height:100%;
 overflow:hidden;
 margin: 0px;
-font-family: 'Raleway', sans-serif;
+font-family: 'Hind Vadodara', sans-serif;
 
 }
 #home
@@ -17,7 +17,7 @@ width:100%;
 height:100%;
 overflow:hidden;
 margin: 0px;
-background:#BECEDE;	//home page's background
+background:#8c8c8c;	//home page's background
 }
 #otherpage
 {
@@ -25,7 +25,7 @@ width:100%;
 height:100%;
 overflow:hidden;
 margin: 0px;
-background:#9ab2cb;	//other page's background
+background:#737373;	//other page's background
 }
 #content
 {
@@ -60,36 +60,35 @@ color: white;
 
 .collapse 
 {
- border-radius: 5px;
- border: 1px solid white;
+
+ border: 1px solid #737373;
 padding: 2px;
 width: 95%;
 margin:auto;
-background:#5C85AD; 	//main menu background
+background:#404040; //main menu background
 }
 .menubar 
 {
-border-radius: 5px;
+
 border: 1px solid white;
-background:#5C85AD; 	//sub-menu background
-padding: 2px;
+background:#404040; //sub-menu background
+padding: 0px;
 width: 95%;
 margin:auto;
 opacity: 0.9;
 }
 .expand 
 {
-border-radius: 5px;
-border: 1px solid white;
+
+border: 1px solid #737373;
 padding: 2px;
 width: 95%;
 margin:auto;
-background:#5C85AD; 	//main menu background
+background:#404040; //#5C85AD; main menu background
 }
 .arrow
 {
 text-align:right;
 }
-
 
 
